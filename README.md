@@ -53,8 +53,8 @@ Este proyecto analiza datos de calidad del aire del **Territorio de la Capital A
 - Comparar el desempeño de los modelos y determinar cuál es más adecuado para la tarea.
 
 ## Uso
-Ejecutar el Jupyter Notebook y realizar cada paso en celdas separadas:
-```bash
-jupyter notebook analysis.ipynb
+Aqui encontraras los archivos tanto el notebook como en HTML
+[Reporte en HTML](./LDA_y_ArbolesDeDecision.html)
+[Reporte en NOTEBOOK](./LDA_y_ArbolesDeDecision.ipynb)
 ```
 
